@@ -1,0 +1,21 @@
+{
+    "classes": [
+      {
+        "id": 1,
+        "name": "Йога",
+        "instructor": "Анна",
+        "time": "09:00",
+        "capacity": 20,
+        "booked": 15
+      },
+      {
+        "id": 2,
+        "name": "Силовая тренировка",
+        "instructor": "Иван",
+        "time": "11:00",
+        "capacity": 15,
+        "booked": 10
+      }
+    ]
+  }
+  
